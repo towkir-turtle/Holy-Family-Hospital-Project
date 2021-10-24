@@ -1,0 +1,53 @@
+.about-container {
+  padding: 50px 0;
+}
+.about-container .title {
+  color: gray;
+  margin-bottom: 20px;
+}
+.about-container .title span {
+  color: #00cfd1;
+}
+.about {
+  display: flex;
+  color: gray;
+}
+.about .aboutImg {
+  margin-right: 50px;
+}
+.about .title-paragraph {
+  font-size: 30px;
+  color: black;
+}
+.title-paragraph span {
+  font-weight: 600;
+}
+.secondary {
+  margin-top: 30px;
+}
+.secondary-btn {
+  text-decoration: none;
+  font-size: 16px;
+  color: gray;
+  border: 1px solid orangered;
+  border-radius: 50px;
+  padding: 10px 30px;
+}
+.secondary-btn:hover {
+  background: orangered;
+  color: white;
+}
+
+/* media quries: */
+@media only screen and (max-width: 768px) {
+  .about {
+    display: flex;
+    flex-direction: column;
+  }
+  .about-info {
+    margin-top: 20px;
+  }
+  .about .title-paragraph {
+    font-size: 22px;
+  }
+}

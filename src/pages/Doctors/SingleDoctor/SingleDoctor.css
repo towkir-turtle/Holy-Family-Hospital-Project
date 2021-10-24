@@ -1,0 +1,12 @@
+.doctor img {
+  width: 250px;
+  height: 330px;
+}
+.doctor {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  padding: 10px 0;
+}
+.doctor h3 {
+  margin-top: 20px;
+}

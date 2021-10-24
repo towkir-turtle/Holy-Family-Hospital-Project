@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "img": "https://thememakker.com/templates/oreo/hospital/front/assets/images/team-member-01.png",
+        "name": "Dr. John",
+        "designation": "Dentist"
+    },
+    {
+        "id": 2,
+        "img": "https://thememakker.com/templates/oreo/hospital/front/assets/images/team-member-02.png",
+        "name": "Dr. Amelia",
+        "designation": "Gynecologist"
+    },
+    {
+        "id": 3,
+        "img": "https://thememakker.com/templates/oreo/hospital/front/assets/images/team-member-03.png",
+        "name": "Dr. Jack",
+        "designation": "Audiology"
+    },
+    {
+        "id": 4,
+        "img": "https://thememakker.com/templates/oreo/hospital/front/assets/images/team-member-05.png",
+        "name": "Dr. Charlie",
+        "designation": "Dentist"
+    },
+    {
+        "id": 5,
+        "img": "https://thememakker.com/templates/oreo/hospital/front/assets/images/team-member-04.png",
+        "name": "Dr. Sophie",
+        "designation": "Gynecologist"
+    },
+    {
+        "id": 6,
+        "img": "https://thememakker.com/templates/oreo/hospital/front/assets/images/team-member-06.png",
+        "name": "Dr. William",
+        "designation": "Audiology"
+    }
+]

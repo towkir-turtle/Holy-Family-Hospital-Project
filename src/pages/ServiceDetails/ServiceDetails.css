@@ -1,0 +1,37 @@
+#serviceDetails {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #2d3035;
+  padding: 100px 0;
+}
+.singleService {
+  width: 800px;
+  display: flex;
+  color: #fff;
+}
+#serviceDetails img {
+  width: 400px;
+  height: 250px;
+}
+#serviceDetails .serviceInfo {
+  margin-left: 30px;
+}
+
+/* MEDIA QUERIES */
+@media only screen and (max-width: 480px) {
+  #serviceDetails img {
+    width: 300px;
+    height: 150px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .singleService {
+    display: flex;
+    flex-direction: column;
+  }
+  #serviceDetails .serviceInfo {
+    margin-left: 0;
+    margin-top: 30px;
+  }
+}

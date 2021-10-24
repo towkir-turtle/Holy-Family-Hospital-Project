@@ -1,0 +1,36 @@
+.footer-container {
+  background: #dddddd;
+  padding: 50px 0;
+}
+.footer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 30px;
+}
+.footer .footer-info {
+  margin-top: 30px;
+}
+.footer p {
+  color: rgba(0, 0, 0, 0.7);
+}
+.links .link-item {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.7);
+}
+.links {
+  display: flex;
+}
+.top {
+  margin-right: 20px;
+}
+.footer-icon {
+  margin-right: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+  .footer {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-column-gap: 40px;
+  }
+}

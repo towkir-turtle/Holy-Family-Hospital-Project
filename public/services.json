@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "img": "https://media.istockphoto.com/vectors/red-heart-beat-pulse-electrocardiogram-rhythm-on-blue-cardio-chart-vector-id1047533856?b=1&k=20&m=1047533856&s=612x612&w=0&h=5Zop9dZU4z-wDiOY_c9g0zapCS9rBGfdnPRHH6f_t_w=",
+        "name": "Cardio Monitoring",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece[...]"
+    },
+    {
+        "id": 2,
+        "img": "https://st2.depositphotos.com/2914637/9790/v/600/depositphotos_97901920-stock-illustration-braces-teeth-of-dental-healthcare.jpg",
+        "name": "Orthodontics",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece[...]"
+    },
+    {
+        "id": 3,
+        "img": "https://www.farukmedicalcity.com/wp-content/uploads/2018/04/Orthopedics-and-Traumatology-1024x427.jpg",
+        "name": "Traumatology",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece[...]"
+    },
+    {
+        "id": 4,
+        "img": "https://www.rumcsi.org/wp-content/uploads/2020/09/Cardiology-scaled.jpg",
+        "name": "Cardiology",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece[...]"
+    },
+    {
+        "id": 5,
+        "img": "https://advantagepo.com/wp-content/uploads/2017/12/how-do-prosthetic-arms-work-846x443.jpg",
+        "name": "Prostheses",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece[...]"
+    },
+    {
+        "id": 6,
+        "img": "https://jamaicahospital.org/wp-content/uploads/2012/12/GettyImages-953787016.jpg",
+        "name": "Pulmonary",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece[...]"
+    }
+
+]

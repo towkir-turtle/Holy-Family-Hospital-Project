@@ -1,0 +1,26 @@
+#header {
+  background-color: #00cfd1;
+}
+.logo {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 22px;
+  font-weight: 500;
+}
+.logo:hover {
+  color: #fff;
+  transition: 0.3s;
+}
+.nav .navlink {
+  font-size: 18px;
+  font-weight: 500;
+}
+.nav .navlink:hover {
+  color: #fff;
+}
+.displayName {
+  color: white;
+  margin-top: 8px;
+  margin-right: 10px;
+  margin-left: 10px;
+}

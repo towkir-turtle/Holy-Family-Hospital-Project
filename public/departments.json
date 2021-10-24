@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "img": "https://www.nm.org//-/media/northwestern/healthbeat/images/health%20library/nm-ten-signs-cardiologist_preview.jpg",
+        "name": "CARDIOLOGY",
+        "description": "How all this mistaken al idea of denouncing pleasure praisings pain [...]"
+    },
+    {
+        "id": 2,
+        "img": "https://www.sih.net/-/media/c8545d650de14de298fd3a800d03ab68.ashx",
+        "name": "PULMONOLOGY",
+        "description": "How all this mistaken al idea of denouncing pleasure praisings pain [...]"
+    },
+    {
+        "id": 3,
+        "img": "https://7dmc.ae/wp-content/uploads/2019/08/7DMC-gynacology.jpg",
+        "name": "GYNECOLOGY",
+        "description": "How all this mistaken al idea of denouncing pleasure praisings pain [...]"
+    },
+    {
+        "id": 4,
+        "img": "https://www.evms.edu/media/evms_public/departments/neurology/Neuro-hero-image-2000x1149px.jpg",
+        "name": "NEUROLOGY",
+        "description": "How all this mistaken al idea of denouncing pleasure praisings pain [...]"
+    },
+    {
+        "id": 5,
+        "img": "https://medicine.utah.edu/surgery/urology/images/recon-urology-clinical-fellowship-overview-2-web.jpg",
+        "name": "UROLOGY",
+        "description": "How all this mistaken al idea of denouncing pleasure praisings pain [...]"
+    },
+    {
+        "id": 6,
+        "img": "https://wmsmile.com/wp-content/uploads/2018/01/patient-dental.jpg",
+        "name": "DENTAL",
+        "description": "How all this mistaken al idea of denouncing pleasure praisings pain [...]"
+    }
+]

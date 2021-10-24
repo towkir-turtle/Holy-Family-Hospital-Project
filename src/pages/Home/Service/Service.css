@@ -1,0 +1,18 @@
+.service img {
+  width: 350px;
+  height: 230px;
+}
+.service h4 {
+  margin-top: 10px;
+}
+.service-btn {
+  text-decoration: none;
+  color: #fa7a50;
+  border: 1px solid #fa7a50;
+  padding: 5px 10px;
+  border-radius: 50px;
+}
+.service-btn:hover {
+  background: #fa7a50;
+  color: #fff;
+}

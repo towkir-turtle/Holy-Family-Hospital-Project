@@ -1,0 +1,23 @@
+.department img {
+  width: 350px;
+  height: 230px;
+}
+
+.department h3 {
+  color: rgba(0, 0, 0, 0.7);
+  margin-top: 20px;
+}
+.department p {
+  color: gray;
+}
+.departmentBtn {
+  text-decoration: none;
+  border: 1px solid #fa7a50;
+  border-radius: 50px;
+  color: #fa7a50;
+  padding: 6px 12px;
+}
+.departmentBtn:hover {
+  background: #fa7a50;
+  color: #fff;
+}

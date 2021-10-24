@@ -1,0 +1,24 @@
+#departments {
+  padding: 50px 0;
+}
+.department-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 30px;
+}
+.title {
+  color: gray;
+  margin-bottom: 20px;
+}
+.title span {
+  color: #00cfd1;
+  margin-right: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+  .department-container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 30px;
+  }
+}
