@@ -17,21 +17,21 @@ const About = () => {
           </div>
           <div className="about-info">
             <p className="title-paragraph">
-              <span>Holy Family Hospital</span> isIt is a long established fact
-              that a reader will be distracted by the readable content.
+              <span>Holy Family Hospital</span> is a project of Bangladesh Red
+              Crescent Society (BDRCS) and is run by a Governing Body.
             </p>
             <p>
-              Contrary to popular belief, Lorem Ipsum is not simply random text.
-              It has roots in a piece of classical Latin literature from 45 BC,
-              making it over 2000 years old. Richard McClintock, a Latin
-              professor at Hampden-Sydney College in Virginia, looked up one of
-              the more obscure Latin words, consectetur, from a Lorem Ipsum
-              passage, and goingered the undoubtable source.
+              The Holy Family Red Crescent Medical College started its journey
+              in the academic year 1999-2000 by the inspiration of daughter of
+              Father of the Nation & defender of the democracy Prime Minister
+              Janonetri Sheikh Hasina.
             </p>
             <p>
-              There are many variations of passages of Lorem Ipsum available,
-              but the majority have suffered alteration in some form, by
-              injected humour.
+              The College follows the MBBS course curriculum as laid down by
+              Dhaka University and Bangladesh Medical and Dental Council.
+              Government of Bangladesh regulates the criteria of qualification
+              of students and the University of Dhaka conducts the professional
+              examinations and certificates of MBBS degree are awarded by them.
             </p>
             <div className="secondary">
               <Link className="secondary-btn" to="/about">
